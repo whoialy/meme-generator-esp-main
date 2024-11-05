@@ -21,7 +21,7 @@ def index():
         selected_color = request.form["color-selector"]
 
         # Asignación #3. Recepción del posicionamiento del texto
-        
+        # Hola que mas
 
         return render_template('index.html', 
                                # Visualización de la imagen seleccionada
